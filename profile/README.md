@@ -66,12 +66,11 @@
 
 ![내가그린안전그림_아키텍처](https://github.com/user-attachments/assets/b06884bf-b73b-4566-a0c3-fdf0770cac35)
 
-
 ### 프론트엔드
 
 - **AR.js, Three.js**: 3D 모델 및 AR 구현
 - **React, Next.js**: 사용자 친화적인 UI/UX 개발
-- **SockJS, StompJS**: 실시간 채팅 및 통신 지원
+- **StompJS**: 실시간 채팅 및 통신 지원
 
 ### 백엔드
 
@@ -107,10 +106,6 @@
 5. **결과 및 랭킹 확인**
    - 참여 점수와 창의성 점수를 기준으로 랭킹 제공.
 
-## 📜 관련 기사
-
-- [초등 저학년 안전 교육의 필요성](https://www.educhang.co.kr/news/articleView.html?idxno=3866)
-- [게이미피케이션이 교육에 미치는 긍정적 영향](https://www.donga.com/news/Opinion/article/all/20221122/116610480/1)
 
 ## 🎥 기능 시연
 
@@ -151,6 +146,11 @@
 
 - 참여 활동에 따라 점수가 부여됩니다.
 - 점수를 기준으로 **랭킹**이 제공되며 학습 동기를 유발합니다.
+
+## 📜 관련 기사
+
+- [초등 저학년 안전 교육의 필요성](https://www.educhang.co.kr/news/articleView.html?idxno=3866)
+- [게이미피케이션이 교육에 미치는 긍정적 영향](https://www.donga.com/news/Opinion/article/all/20221122/116610480/1)
 
 ---
 
